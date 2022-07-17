@@ -5,7 +5,7 @@ console.log(
 console.log(
   "I was afraid I had forgotten how. More than anything, I think, I was afraid to be bad at something. "
 );
-var countDownDate = new Date("July 17, 2022 12:00:00").getTime();
+var countDownDate = new Date("August 17, 2022 12:00:00").getTime();
 var x = setInterval(function () {
   var now = new Date().getTime();
   var distance = countDownDate - now;
